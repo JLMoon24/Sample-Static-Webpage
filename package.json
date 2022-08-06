@@ -1,0 +1,17 @@
+{
+  "name": "nodeexpresssample",
+  "version": "1.0.0",
+  "description": "Bootstrap Single Static Page ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J Moon",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.2.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}

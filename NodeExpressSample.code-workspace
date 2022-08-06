@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Bootstrap\\BootStrapSampleSite\\assets"
+		},
+		{
+			"path": "..\\Bootstrap\\BootStrapSampleSite\\sass"
+		}
+	],
+	"settings": {}
+}
